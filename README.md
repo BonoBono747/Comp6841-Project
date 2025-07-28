@@ -1,3 +1,4 @@
 # Comp6841 Project
 
-<img width="940" height="297" alt="image" src="https://github.com/user-attachments/assets/4ef90fb4-d75b-44d0-b2c1-c2c8b276abfa" />
+Image v2
+<img width="602" height="190" alt="Natas_4 1" src="https://github.com/user-attachments/assets/9f72f843-1a71-4d38-bd27-3fd4af540632" />
