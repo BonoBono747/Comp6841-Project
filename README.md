@@ -29,7 +29,7 @@ I tried clicking around the page to see if there were any clickable elements I m
 
 At this point, I felt lost. I couldn’t even complete level 0, and there were no hints or information on this page or any other page on OverTheWire. I needed to attempt this challenge another way. 
 
-Next step: [Introduction to CTFs](/Introduction-to-ctfs)
+Next step: [Introduction to CTFs](/Introduction-to-ctfs.md)
 
 [^1]: <https://overthewire.org/wargames>
 
