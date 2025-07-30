@@ -30,7 +30,7 @@ For more information, click the links:
 
 #### Web browser developer tools
 A developer tool that’s built directly into the browser and allows for inspecting elements of the currently loaded HTML, CSS, and JavaScript. There are other functionalities as well, but they aren’t relevant to this level [^5]. For more information, click the link: [Link](https://www.geeksforgeeks.org/javascript/browser-developer-tools/)
-___
+
 ### References
 [^1]: https://www.hackingarticles.in/overthewire-natas-walkthrough-0-11/
 [^2]: https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Browsing_the_web
