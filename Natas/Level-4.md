@@ -23,15 +23,15 @@ I didn’t see any flags in the intercepted message, but there is another functi
 You do this by intercepting a request, changing the data of the request via the Inspector tab, and then forwarding the request to the server. For more information, click the [link]().
 
 This challenge hinted that authorized users only come from the natas5 site, so I just need to modify the request data that tells the server where the request is coming from. 
-When I refreshed the page again, I intercepted a request and before forwarding it, I got this:  
+When I refreshed the page again, I intercepted a request, and before forwarding it, I got this:  
 
 <img width="3018" height="615" alt="image" src="https://github.com/user-attachments/assets/91d7a703-5742-4d18-9b48-35303b2438e9" />
 
-Beneath the Inspector tab it shows all the request data I can modify. I had a look at this and found: 
+Beneath the Inspector tab, it shows all the request data I can modify. I had a look at this and found: 
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1b675afb-2598-4983-9c9d-e16417d57469" />
 
-There were two fields that gave the address my request was sent from, Host and Referer. Host is the domain name of the web server being requested and is required in order to respond with content.
+There were two fields that gave the address my request was sent from, Host and Referer. The Host is the domain name of the web server being requested and is required in order to respond with content.
 
 Referer (accidentally misspelt when HTTP/1.0 was written) tells the web server where the user is coming from. Based on the hint, we want the web server to think we are coming from the natas5 webpage. So I modified the value to http://natas5.natas.labs.overthewire.org/ (as specified in the hint) and forwarded the request. This gave me the flag: 
 
@@ -41,7 +41,7 @@ Referer (accidentally misspelt when HTTP/1.0 was written) tells the web server w
 
 ## Concepts
 
-For more information on HTTP, click the [link]().
+For more information on HTTP, click the [link](https://github.com/BonoBono747/Comp6841-Project/blob/main/Natas/Level-2.md#http).
 
 ## Challenge 
 This was my first time properly utilizing Burp Suite in a challenge, so I had to look up the documentation for it. It was both interesting and daunting to use this tool since it has a lot of functionality and information, while also having fascinating capabilities. 
