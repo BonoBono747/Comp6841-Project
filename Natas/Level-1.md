@@ -4,7 +4,11 @@
 
 
 ## Methodology
-
+<details>
+<summary>Spoilers</summary>
+  
+    Bunch of hidden text inside dropdown box
+</details>
 
 ## Mindset
 
