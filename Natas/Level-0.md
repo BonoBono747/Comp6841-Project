@@ -4,6 +4,9 @@
 Before going on my deep dive into CTFs, known vulnerabilities, and cybersecurity concepts, I had a look at a walkthrough of Natas[^1]. I didn’t want to spoil too much of the challenge, so I only looked at level 0 and did a quick scroll of some of the levels. I saw that level 0 required using web developer tools and that future levels made use of Burp Suite and Wireshark. This wasn’t much to go on, but it was a good place to start without telling me too much. 
 
 ## Method
+<details>
+<summary>Spoilers</summary>
+  
 I know that I need to access Google’s developer tools for this task, but I can’t remember how to do that. So I looked it up, and there are three methods:
 1.	Right-click on the webpage and click `View Page Source`.
 2.	Press `F12`
@@ -12,6 +15,8 @@ I know that I need to access Google’s developer tools for this task, but I can
 I tried F12 and clicked some of the down arrows to show the hidden information. That’s where I found my first flag.
 
 <img width="1920" height="759" alt="image" src="https://github.com/user-attachments/assets/d9011f71-74b9-4ac9-b1e8-028bd2512b12" />
+
+</details>
 
 ## Concepts
 #### Webpage/Websites
