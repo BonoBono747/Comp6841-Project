@@ -14,11 +14,11 @@ I logged into the page on the Burp Suite browser without intercepting any reques
 
 <img width="3010" height="231" alt="image" src="https://github.com/user-attachments/assets/7e00fc0b-91f1-4a2e-a7ee-70cb46765486" />
 
-“Loggedin=0” seemed relevant considering that hint for this level was that the user was not logged in. So I turned on intercept and modified the loggedin field under the cookie tab.
+“Loggedin=0” seemed relevant, considering that the hint for this level was that the user was not logged in. So I turned on intercept and modified the logged-in field under the cookie tab.
 
 <img width="350" height="469" alt="image" src="https://github.com/user-attachments/assets/d5c08a75-9b04-430b-84f0-13a622ef7d4e" />
 
-I forwarded the request which gave me:
+I forwarded the request, which gave me:
 
 <img width="940" height="219" alt="image" src="https://github.com/user-attachments/assets/b9a110db-99c4-4d37-b565-38da5f514ef9" />
 
