@@ -1,6 +1,6 @@
-# Re-evaluating my approach
+# Introduction to Capture The Flag Challenges
 
-## What are CTF challenges? 
+## What are Catpure The Flag challenges? 
 
 Capture The Flag or CTF challenges are gamified security challenges that involve participants exploiting security vulnerabilities to retrieve a “flag”, which is usually a string of text. These challenges provide an opportunity to grow your computing knowledge with hands-on experience and help keep hard skills up to date [^1] [^2] [^3]. 
 
