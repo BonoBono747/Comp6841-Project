@@ -19,9 +19,9 @@ I can see from this that the strings of encrypted text are in blocks of 5, but o
 
 The krypton 4 has this string of text: “KSVVW BGSJD SVSIS VXBMN YQUUK BNWCU ANMJS”. 
 
-At this point, I don’t know where to go, so I checked the hint1 file that was in the directory. It says that “Some letters in English are more prevalent than others”. 
+At this point, I didn’t know where to go, so I checked the hint1 file that was in the directory. It says that “Some letters in English are more prevalent than others”. 
 
-From my research on cryptography, I know that one method of breaking ciphers involves frequency analysis, where the most commonly used letters in English are assigned to the most frequent letters in the encrypted text. This does involve some guess and check work but this seems like a good path to pursue for now. 
+From my research on cryptography, I knew that one method of breaking ciphers involves frequency analysis, where the most commonly used letters in English are assigned to the most frequent letters in the encrypted text. This does involve some guess-and-check work, but it seemed like a good path to pursue for now. 
 
 I used Cyberchefs' frequency distribution operation on the found1 encrypted text and got a series of frequency values for the alphabet. 
 
@@ -29,7 +29,7 @@ I used Cyberchefs' frequency distribution operation on the found1 encrypted text
 
 > Note: Scroll down in the output to find this.
 
-I copied these values into an Excel Spreadsheet, sorted by largest to smallest, and matched it against the average frequency of letters used in the English language[]. This is what I got: 
+I copied these values into an Excel Spreadsheet, sorted by largest to smallest, and matched them against the average frequency of letters used in the English language[]. This is what I got: 
 
 <img width="260" height="549" alt="Krypton_3 3" src="https://github.com/user-attachments/assets/1dd32a03-6771-49ec-a2b1-6fc226d35c57" />
 
