@@ -7,6 +7,10 @@ Since this is a polyalphabetic cipher where a single letter can map to multiple 
 
 
 ## Methodology
+
+<details>
+<summary>Spoilers</summary>
+
 I logged into Level 4 and found files similar to Level 3. I didn’t read the HINT file just yet.
 
 The krypton5 file had this encrypted text: HCIKV RJOX
@@ -30,6 +34,8 @@ So, I tried this key with the encrypted text from Krypton5 and got this:
 <img width="979" height="420" alt="Krypton_4 2" src="https://github.com/user-attachments/assets/37550fd0-2a29-499e-b815-a890ea0df266" />
 
 Thus, the flag is CLEARTEXT.
+
+</details>
 
 ## Challenge 
 This challenge needed me to use a tool that I hadn’t prepared in advance for this level, and instead had to look up Vigenère decryption tools.
