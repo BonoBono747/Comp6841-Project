@@ -12,6 +12,10 @@ For more information on rotation ciphers, see the concepts section.
 
 
 ## Methodology
+<details>
+<summary>Spoilers</summary>
+
+
 
 I connected to the site with: ```ssh krypton1@krypton.labs.overthewire.org -p 2231```, using the password KRYPTONISGREAT from level 0.
 
@@ -36,6 +40,8 @@ The README file told me that the string in the krypton2 file was the password fo
 I checked CyberChef anyway and found the cipher, which gave me the flag: 
 
 <img width="1189" height="547" alt="Krypton_1 4" src="https://github.com/user-attachments/assets/4ccb817e-0aa4-4378-b2f4-9dede8b054de" />
+
+</details>
 
 ## Reflections
 
