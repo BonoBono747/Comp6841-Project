@@ -33,7 +33,7 @@ Source: [^3], [^4], [^5]
 ## How to connect
 The first level gives you a username, password, and URL. Copy and paste the URL into your browser, then log in with the credentials to get started. 
 
-<img width="1137" height="192" alt="image" src="https://github.com/user-attachments/assets/266af7bf-c5ab-4a56-b9bb-670ad1dec09f" />
+<img width="750" height="126" alt="image" src="https://github.com/user-attachments/assets/266af7bf-c5ab-4a56-b9bb-670ad1dec09f" />
 
 For subsequent levels, use the provided username and flag from the previous level as the password.
 
