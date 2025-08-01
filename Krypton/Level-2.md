@@ -35,7 +35,7 @@ I wanted to try to encrypt a file using the encrypt program they gave us. To do 
 
 Using this temporary directory, I created the file test.txt with some letters that I could encrypt and used the encrypt program supplied to encrypt the test.txt file. 
 
-<img width="1000" height="394" alt="image" src="https://github.com/user-attachments/assets/2ba13c7b-6e8b-4bcb-bc6e-e36bbb5c22d5" />
+<img width="750" height="296" alt="image" src="https://github.com/user-attachments/assets/2ba13c7b-6e8b-4bcb-bc6e-e36bbb5c22d5" />
 
 I tried using the encrypt program directly from the temporary directory, but that didn’t work. So, I looked back at the hint and used the code from there. Note that the encrypt function only works if the key file is in the same directory as the text to be encrypted. 
 
@@ -61,11 +61,20 @@ I also didn’t fully understand all the bash commands they used in the addition
 
 **Caesar ciphers**
 
-Check out [Level 1]() 
+Check out [Level 1](https://github.com/BonoBono747/Comp6841-Project/blob/main/Krypton/Level-1.md#concepts) 
 or the explanation by OverTheWire: 
 [Link](https://overthewire.org/wargames/krypton/krypton2.html)
 
+**Bash commands**  
+`Mktemp`: Used to create a temporary file or directory [^1].  
+`Ln`: Creates a link between two files. The -s flag specifies a symbolic link [^2]. It was used in this level to store the path of the target file, linking it to the current directory.  
+`Chmod`: Used to modify the file permissions in a Unix-like system [^3]. 777 gives read, write, and execute permissions [^4].   
+`Echo`: Used to show a line of text or a variable’s value in the terminal [^5]. In this case, the text was “piped” using “>” into a file.   
 
 
 ### References
-
+[^1]: https://man7.org/linux/man-pages/man1/mktemp.1.html
+[^2]: https://man7.org/linux/man-pages/man1/ln.1.html
+[^3]: https://www.w3schools.com/bash/bash_chmod.php
+[^4]: https://linuxize.com/post/what-does-chmod-777-mean/
+[^5]: https://www.w3schools.com/bash/bash_echo.php
