@@ -7,10 +7,14 @@ I know that the Cyberchef tool is good for decoding
 
 
 ## Methodology
+<details>
+<summary>Spoilers</summary>
 
 Using CyberChef, I set the operation to “From Base64”, entered the encoded string into the Input box, and clicked the "Bake!" Button. This is the flag that I got: 
 
 <img width="1920" height="545" alt="Krypton_0 1" src="https://github.com/user-attachments/assets/397f8c92-6398-45a4-91c1-ff881a90a9bd" />
+
+</details>
 
 ## Reflection
 This level was straightforward, but there is another way of decoding the given string that doesn’t use tools but can be done in the shell. 
