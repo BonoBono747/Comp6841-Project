@@ -35,7 +35,7 @@ Sources: [^1] [^3]
 There are other miscellaneous types of challenges and challenges that combine these types that are called exploitation/realistic/hybrid. 
 
 Resources that document types of CTF challenges and their associated vulnerabilities: 
-1. <https://ctf101.org/>
+1. <https://ctf101.org/>  
 Handbook to learn the basics of CTFs. Includes vulnerabilities, methodologies, and techniques for Forensics, Cryptography, Web Exploitation, Reverse Engineering, and Binary Exploitation. 
 1. <https://primer.picoctf.com/#_introduction>  
 Comprehensive primer for CTF challenges, which is attached to its own CTF challenge website – https://play.picoctf.org/login. Introduces a lot of fundamental computer topics before going more in-depth on security vulnerabilities.
