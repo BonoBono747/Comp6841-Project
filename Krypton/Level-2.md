@@ -66,10 +66,10 @@ or the explanation by OverTheWire:
 [Link](https://overthewire.org/wargames/krypton/krypton2.html)
 
 **Bash commands**  
-`Mktemp`: Used to create a temporary file or directory [^1].  
-`Ln`: Creates a link between two files. The -s flag specifies a symbolic link [^2]. It was used in this level to store the path of the target file, linking it to the current directory.  
-`Chmod`: Used to modify the file permissions in a Unix-like system [^3]. 777 gives read, write, and execute permissions [^4].   
-`Echo`: Used to show a line of text or a variable’s value in the terminal [^5]. In this case, the text was “piped” using “>” into a file.   
++ `Mktemp`: Used to create a temporary file or directory [^1].  
++ `Ln`: Creates a link between two files. The -s flag specifies a symbolic link [^2]. It was used in this level to store the path of the target file, linking it to the current directory.  
++ `Chmod`: Used to modify the file permissions in a Unix-like system [^3]. 777 gives read, write, and execute permissions [^4].   
++ `Echo`: Used to show a line of text or a variable’s value in the terminal [^5]. In this case, the text was “piped” using “>” into a file.   
 
 
 ### References
