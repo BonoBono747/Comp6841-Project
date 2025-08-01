@@ -38,5 +38,5 @@ This challenge needed me to use a tool that I hadn’t prepared in advance for t
 ## Concepts
 
 **Vigenere ciphers**  
-Check out [Level 1]() 
+Check out [Level 1](https://github.com/BonoBono747/Comp6841-Project/blob/main/Krypton/Level-1.md#concepts) 
 or the explanation by OverTheWire: [Link](https://overthewire.org/wargames/krypton/krypton4.html)
