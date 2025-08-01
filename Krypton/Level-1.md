@@ -58,9 +58,9 @@ For more information on substitution ciphers and examples, click the link:
 
 **Bash commands**
 
-`Cd`: Used to change the current working directory [^3].  
-`Ls`: Used to list the contents of the current directory [^3].  
-`Cat`: Used to show the contents of a file in the terminal [^3].  
++ `Cd`: Used to change the current working directory [^3].  
++ `Ls`: Used to list the contents of the current directory [^3].  
++ `Cat`: Used to show the contents of a file in the terminal [^3].  
 
 For more information on these bash commands, click the link: 
 [Link](https://www.w3schools.com/bash/bash_commands.php)
