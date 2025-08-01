@@ -15,7 +15,7 @@ For more information on intercepting HTTP traffic on Burp Suite, use this [link]
 
 I reviewed all the requests I intercepted and searched for “natas3” and “pass” to find the flag, but didn’t find anything.  
 
-I had run into my second dead-end. I thought about trying another function of Burp Proxy, which is to modify requests. However, I thought about this and realized that I’m not making requests to the site, so there are no requests to modify.
+I had run into my second dead-end. I thought about trying another function of Burp Proxy, which is to modify requests. However, I realized that I’m not making requests to the site, so there are no requests to modify.
 
 So, I went back to developer tools to see if I had missed anything, and I saw this: 
 
@@ -62,7 +62,7 @@ For more information, click the link:
 
 
 ## Challenge 
-This level had me stumped at first after trying to inspect web developer tools and intercept HTTP requests with Burp Suite. I think this was due to a misunderstanding of the function of Burp Suite. However, going back and checking the previous step for things I’d missed helped solve the level. 
+This level had me stumped at first after trying to inspect web developer tools and intercept HTTP requests with Burp Suite. However, going back and checking the previous step for things I’d missed helped solve the level. 
 
 ### References
 [^1]: https://developer.mozilla.org/en-US/docs/Glossary/HTTP
