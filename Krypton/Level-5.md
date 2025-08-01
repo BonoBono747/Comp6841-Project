@@ -5,7 +5,7 @@ The hint for this level was that this is a polyalphabetic cipher from American E
 
 I wasn’t too sure how to go about this since the method we used in level 4 relied on using the key length on the dcode.fr website. 
 
-One idea that I had was brute forcing different key lengths. So, trying key lengths 1, 2, 3,... on the decryption website and seeing if those yielded results. However, this could take a long time as well.
+One idea that I had was brute forcing different key lengths. Which meant trying key lengths 1, 2, 3,... on the decryption website and seeing if those yielded results. However, this could take a long time as well.
 
 ## Methodology
 
