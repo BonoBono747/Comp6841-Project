@@ -71,7 +71,7 @@ In each wargame, I will introduce the relevant software that might be needed for
 
 At this point, I recommend starting some challenges. 
 
-Have a look at my walkthroughs of [Natas]() and [Krypton]().
+Have a look at my walkthroughs of [Natas](https://github.com/BonoBono747/Comp6841-Project/tree/main/Natas) and [Krypton](https://github.com/BonoBono747/Comp6841-Project/tree/main/Krypton).
 > These walkthroughs assume that you have completed the previous levels in the challenge, so they don't explain concepts that have already been covered in previous levels. 
 
 
