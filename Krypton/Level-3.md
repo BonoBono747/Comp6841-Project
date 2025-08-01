@@ -8,6 +8,9 @@ This doesn’t mean much to me at this stage. I know that we have already used s
 
 ## Methodology
 
+<details>
+<summary>Spoilers</summary>
+
 After logging into level 3 with the username krypton3 and the password from level 2, I navigate to the krypton3 directory and check the files. I check the extra files mentioned in the hint, which are found1, found2, and found3. 
 
 <img width="1416" height="467" alt="Krypton_3 1" src="https://github.com/user-attachments/assets/ca614810-747c-4491-ac99-c3b28c62991f" />
@@ -60,6 +63,8 @@ So I copied the encrypted text from found1 and pasted it into Quipquip. Fortunat
 <img width="1550" height="446" alt="Krypton_3 6" src="https://github.com/user-attachments/assets/3b6f2475-d083-43b0-9380-e602c490f40b" />
 
 Therefore, the password for level 4 is “BRUTE”. (Quipquip doesn’t preserve uppercase)
+
+</details>
 
 ## Challenge 
 This level saw me run into a few dead ends. 
