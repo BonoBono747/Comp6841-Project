@@ -23,13 +23,30 @@ I will explain any encryption types we come across in the walkthrough; however, 
 
 ## Software to get you started
 [Cyberchef](https://gchq.github.io/CyberChef/)  
-All-purpose web application for analyzing, encoding and decoding data
+All-purpose web application for analyzing, encoding, and decoding data
 
 [Quipquip](https://quipqiup.com/)  
 Web application that attempts to automatically decipher substitution ciphers (including no-key Vigenère deciphering). Not always successful.
 
-Source: 
+Source: [^2], [^3]
+
+## How to connect
+
+Krypton level 0 gives you a string to decrypt, which will be used as the password for the next level. 
+
+Krypton level 1 gives you an SSH address, port, username, and password. SSH into the Krypton server by entering the following command into your terminal: `ssh username@address -p port`
+
+Then enter the password. 
+> Note: You won’t be able to see the password once you enter it, and copy-pasting the password might not work, so try typing it manually.
+
+In subsequent levels, use the given username and flag you found from the previous level as the password.
+For more information on SSH, see the reference guide.
+
+
+
+
 
 ### References
 [^1]: https://ctf101.org/cryptography/overview/
-[^2]:
+[^2]: https://ctf101.org/faq/recommended-software/
+[^3]: https://medium.com/@ohheyymjincyber/ctf-toolkit-guide-9f5bda3931ea
