@@ -3,7 +3,7 @@
 ## Mindset
 The hint explains how the Vigenère Cipher works.
 
-Since this is a polyalphabetic cipher where a single letter can map to multiple letters, frequency analysis won’t work the same way as level 3. Since the key size is 6, every 6th letter will have the same operation applied to it. Therefore, you can do frequency analysis on every 6th letter, like the 1st, 7t,h and 13th letters. 
+Since this is a polyalphabetic cipher where a single letter can map to multiple letters, frequency analysis won’t work the same way as level 3. Since the key size is 6, every 6th letter will have the same operation applied to it. Therefore, you can do frequency analysis on every 6th letter, like the 1st, 7th, and 13th letters. 
 
 
 ## Methodology
