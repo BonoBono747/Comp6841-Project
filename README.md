@@ -27,7 +27,9 @@ The page was seemingly blank. There was the text seen in the screenshot above an
 
 I tried clicking around the page to see if there were any clickable elements I missed, but didn’t find anything
 
-I wasn't sure what to do from here. I couldn’t even complete level 0, and there were no hints or information on this page or any other page on OverTheWire. I needed to attempt this challenge another way. 
+I wasn't sure what to do from here. I couldn’t even complete level 0, and there were no hints or information on this page or any other page on OverTheWire. 
+
+It's clear I need to attempt this challenge a different way, so I started by researching the fundamentals of CTFs.
 
 Next step: [Introduction to CTFs](/Introduction-to-ctfs.md)
 
