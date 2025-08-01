@@ -10,7 +10,7 @@ In addition to this, I planned to produce a toolkit with these challenges and cr
 
 When I first planned this project and discussed it with my tutor, they noted that I might be trying to do too much in the limited time frame. As such, I adjusted my aims to focus more on the Natas, Krypton, and Leviathan wargames, and completing the technical guide. 
 
-As someone who is new to cybersecurity, I understand that it can be daunting and difficult to begin. This is why I wanted to create a guide to introduce someone to the world of ethical hacking, while also explaining the related security concepts. It targets an audience who has no experience with wargames and limited technical knowledge (like me when I started this project). 
+As someone who is new to cybersecurity, I understand that it can be daunting and difficult to begin. This is why I wanted to create a guide to introduce someone to the world of ethical hacking, while also explaining the related security concepts. It targets an audience who has no experience with wargames and limited technical knowledge. 
 
 While I would like to write an in-depth explanation for every technical concept we come across, I also acknowledge the time constraints of the project. Therefore, I aim to at least briefly explain the key concepts and then link resources for further reading. 
 
