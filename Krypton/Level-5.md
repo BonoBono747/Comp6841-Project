@@ -9,6 +9,9 @@ One idea that I had was brute forcing different key lengths. So, trying key leng
 
 ## Methodology
 
+<details>
+<summary>Spoilers</summary>
+
 I logged into level 5 and looked at the file they had in the directory. This time there was no hint, but otherwise it was similar to the previous two levels. 
 
 The ciphered text in krypton6 was: “BELOS Z”.
@@ -38,3 +41,4 @@ So, the key was KEYLENGTH, and I applied it to the ciphered text in krypton6 and
 
 Therefore, the flag is RANDOM
 
+</details>
