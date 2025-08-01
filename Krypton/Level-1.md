@@ -37,7 +37,7 @@ I checked CyberChef anyway and found the cipher, which gave me the flag:
 
 <img width="1189" height="547" alt="Krypton_1 4" src="https://github.com/user-attachments/assets/4ccb817e-0aa4-4378-b2f4-9dede8b054de" />
 
-## Reflections:
+## Reflections
 
 The challenge asked me to solve it without using a cryptography tool, but to save time, I used CyberChef. However, for the sake of learning, I looked into how I would solve the ROT13 cipher myself in a walkthrough [^1]. 
 
