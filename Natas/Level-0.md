@@ -7,7 +7,7 @@ Before going on my deep dive into CTFs, known vulnerabilities, and cybersecurity
 <details>
 <summary>Spoilers</summary>
   
-I know that I need to access Google’s developer tools for this task, but I can’t remember how to do that. So I looked it up, and there are three methods:
+I knew that I needed to access Google’s developer tools for this task, but I couldn’t remember how to do that. So I looked it up, and there are three methods:
 1.	Right-click on the webpage and click `View Page Source`.
 2.	Press `F12`
 3.	Press `Ctrl+Shift+I`
