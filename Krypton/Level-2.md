@@ -17,6 +17,10 @@ The point of the additional information provided seemed unclear to me, but I kep
 
 
 ## Methodology
+<details>
+<summary>Spoilers</summary>
+
+
 
 I followed the same method I used in level one to connect to and view the challenge, except the username was changed to krypton2, and the password was from level 1. 
 > Note that if you try and access the level 2 information with a level 1 login, you won’t have permission to view the level 2 files.
@@ -50,6 +54,8 @@ To solve this for the string we got from krypton3, you can do this manually or u
 <img width="786" height="567" alt="image" src="https://github.com/user-attachments/assets/45f00865-3c48-4ff1-b1ba-768e9518af4a" />
 
 So, our flag is CAESARISEASY. 
+
+</details>
 
 ## Reflection
 
