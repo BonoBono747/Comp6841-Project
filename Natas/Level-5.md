@@ -4,7 +4,7 @@
 
 This level gave the hint “Access disallowed. You are not logged in” with no refresh button.
 
-I checked developer tools and robots.txt, but this didn’t show me any flag,s so I tried using Burp Proxy again. 
+I checked developer tools and robots.txt, but this didn’t show me any flags, so I tried using Burp Proxy again. 
 
 ## Methodology
 <details>
