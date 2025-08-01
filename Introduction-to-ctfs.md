@@ -53,7 +53,6 @@ The games I’m covering in this walkthrough are Natas and Krypton, but I’ll i
 
 ## Software for CTFs
 Another necessary aspect of CTFs that I found when I did my background research was the use of software tools. These applications and tools allow further analysis and exploitation of the various vulnerabilities found in the challenges. 
-Here are some of the resources I found that recommend tools for CTF challenges:
 
 Here are some of the resources I found that recommend tools for CTF challenges:
 1. <https://ctf101.org/faq/recommended-software/>  
@@ -67,6 +66,14 @@ In each wargame, I will introduce the relevant software that might be needed for
 
 **Reflective note:**
 > Since CTFs were new to me, I spent a few hours combing through different resources to introduce me to cybersecurity vulnerabilities and CTF tools. While this was very helpful, it would have been better to get started on the challenges sooner and learn while doing them. Even if you don’t know how to solve a challenge, there’s nothing wrong with looking up a walkthrough and learning from that so you can complete a challenge next time. 
+
+## What's Next
+
+At this point, I recommend starting some challenges. 
+
+Have a look at my walkthroughs of [Natas]() and [Krypton]().
+> These walkthroughs assume that you have completed the previous levels in the challenge, so they don't explain concepts that have already been covered in previous levels. 
+
 
 ## References
 [^1]: <https://ctf101.org/>
